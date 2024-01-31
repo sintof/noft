@@ -24,7 +24,7 @@
         <div class="flex justify-between gap-3">
           <img src="../assets/pp.png" alt="pp" class="w-12">
           <div class="flex flex-col leading-tight justify-center">
-            <span>John</span>
+            <span>Jahongir</span>
             <span>Doe</span>
           </div>
         </div>
