@@ -13,7 +13,7 @@
             <span class="font-semibold text-2xl text-noft">0 / 100</span>
             <ProgressLineIcon />
         </div>
-        <div class="text-noft font-semibold text-sm flex">Total Score</div>
+        <div class="text-noft text-sm flex">Total Score</div>
     </div>
 </template>
 
