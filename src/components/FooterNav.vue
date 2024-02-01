@@ -24,4 +24,5 @@ import ChatIcon from './icons/ChatIcon.vue'
 import EduIcon from './icons/EduIcon.vue'
 import SearchIcon from './icons/SearchIcon.vue';
 import MainIcon from './icons/MainIcon.vue';
+import { RouterLink } from 'vue-router'
 </script>

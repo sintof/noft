@@ -1,5 +1,5 @@
 <template>
-  <div class="h-full w-full text-center text-primary px-5 overflow-y-auto">
+  <div class="h-full w-full text-center text-primary px-4 overflow-y-auto">
     <div class="h-14 flex justify-between items-center bg-white p-2 rounded-xl">
       <div class="flex justify-start gap-3 items-center">
         <img src="../assets/pp.png" alt="pp" class="w-12">
