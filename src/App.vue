@@ -5,14 +5,9 @@ import FooterNav from './components/FooterNav.vue';
 </script>
 
 <template>
-
-
 <div class="h-screen flex justify-between flex-col bg-secondary font-inter">
-  <Logo />
-  <RouterView />
-  <FooterNav class="absolute bottom-0" />
-</div>
+    <Logo />
+    <RouterView />
+    <FooterNav class="absolute bottom-0" />
+  </div>
 </template>
-
-<style>
-</style>

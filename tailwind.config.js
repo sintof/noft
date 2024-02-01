@@ -16,6 +16,9 @@ export default {
       fontFamily: {
         'krona': ['Krona One', 'sans-serif'],
         'inter': ['Inter', 'sans-serif'],
+      },
+      backgroundImage: {
+        'beams': "url('../src/assets/beams.png')",
       }
     },
   },
