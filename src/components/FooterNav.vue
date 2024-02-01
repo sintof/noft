@@ -1,5 +1,5 @@
 <template>
-    <nav class="flex justify-around items-center py-4 bg-[url('../src/assets/beams.png')] bg-cover w-full">
+    <nav class="flex justify-around items-center py-4 bg-white w-full">
         <RouterLink to="/" active-class="text-active" class="w-6 h-6">
             <MainIcon />
         </RouterLink>
