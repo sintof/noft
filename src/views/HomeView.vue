@@ -8,7 +8,7 @@
           <div class="font-bold">Hayot Olamova</div>
         </div>
       </div>
-      <NotifIcon />
+      <NotifIcon class="cursor-pointer"/>
     </div>
     <!-- Subjects -->
     <div>

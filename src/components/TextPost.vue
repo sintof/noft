@@ -9,7 +9,7 @@
                 </div>
             </div>
             <div class="flex flex-col items-end leading-none justify-center">
-                <EllipsisIcon />
+                <EllipsisIcon class="cursor-pointer"/>
                 <span class="text-sm">September 19</span>
             </div>
         </div>
@@ -19,7 +19,7 @@
                 the city...
             </div>
         </div>
-        <div class="grow shrink py-2.5 rounded-[7px] border border-noft justify-center items-center flex">
+        <div class="grow cursor-pointer shrink py-2.5 rounded-[7px] border border-noft justify-center items-center flex">
             <div class="justify-center items-center flex">
                 <BoltIcon class="w-4 h-4 relative"/>
                 <div class="text-[#4B87BB] text-sm font-medium font-['Roboto']">READ POST</div>

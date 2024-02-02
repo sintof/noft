@@ -9,7 +9,7 @@
                 </div>
             </div>
             <div class="flex flex-col items-end leading-none justify-center">
-                <EllipsisIcon />
+                <EllipsisIcon class="cursor-pointer"/>
                 <span class="text-sm">September 19</span>
             </div>
         </div>
